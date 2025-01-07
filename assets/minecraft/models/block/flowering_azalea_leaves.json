@@ -1,0 +1,6 @@
+{
+    "parent": "block/bushy_leaves",
+    "textures": {
+        "leaves": "block/flowering_azalea_leaves"
+    }
+}
